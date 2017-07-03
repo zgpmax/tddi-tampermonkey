@@ -11,7 +11,7 @@
 
 (function() {
     'use strict';
-    
+
     //console.log('In TD Direct remove Interactive Investor notice');
 
     // Your code here...
